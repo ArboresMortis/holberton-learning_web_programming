@@ -5,7 +5,7 @@
   <script type = "text/javascript">
     var count = 0;
     while (count < 11) {
-      document.write(count+"<br />");
+      console.log(count);
       count++;
     }
   </script>
@@ -13,3 +13,4 @@
 <body>
 </body>
 </html>
++"<br />"
