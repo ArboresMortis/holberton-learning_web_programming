@@ -1,1 +1,1 @@
-print("Betty Holberton");
+"Betty Holberton"
